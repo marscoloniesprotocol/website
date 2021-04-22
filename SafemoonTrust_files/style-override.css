@@ -1,0 +1,21 @@
+#navbar .nav-wrapper .logo img {
+	width: unset !important;
+}
+
+#navbar .nav-wrapper .logo span {
+	width: unset !important;
+	font-size: 26px;
+	margin-left: 10px;
+	color: white;
+}
+
+.hero-section .about-img img {
+    /* margin-top: -80px;
+    margin-left: 80px; */
+    height: 100%;
+    width: 90%;
+    animation: moon 600s linear infinite;
+    user-select: none;
+    pointer-events: none;
+    /* z-index: -2 */
+}
